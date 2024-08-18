@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:buspirate",
+    "sketch": "Stanok_Cuprum.ino",
+    "output": "../build",
+    "port": "COM4"
+}
